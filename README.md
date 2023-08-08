@@ -10,6 +10,7 @@ Start application:
 Docker no tested, but should work.
 
 Examples of cURL:
+
 **upload:** 
 curl -X POST -u admin:admin -F 'file=@file1.txt' http://localhost:5000/upload
 
